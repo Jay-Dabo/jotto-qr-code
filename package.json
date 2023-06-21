@@ -2,7 +2,7 @@
   "name": "jotto-qrcode",
   "version": "1.0.0",
   "author": {
-    "name": "Jeffrey Dabo <dabo@quadrant2.us>",
+    "name": "Jeffrey Dabo <dabo@quadrant2.us>"
   },
   "description": "Simple QRCode module generator for Jotto using node-qrcode",
   "license": "MIT",
